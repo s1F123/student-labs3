@@ -12,6 +12,6 @@
 ## Запуск проекта
 git clone https://github.com/s1F123/student-labs3.git
 cd student-labs3
-# переход в ветку project
+#переход в ветку project
 git checkout project
 python folder_analyzer.py
