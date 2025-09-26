@@ -10,12 +10,8 @@
 - Ветка `project`: пример проекта с проверкой flake8 и PEP8.
 
 ## Запуск проекта
-$ python folder_analyzer.py
-Введите путь к папке: /home/user/documents
-Всего файлов: 15
-
-Распределение по расширениям:
-  .pdf: 7
-  .docx: 5
-  .txt: 2
-  без расширения: 1
+git clone https://github.com/s1F123/student-labs3.git
+cd student-labs3
+# переход в ветку project
+git checkout project
+python folder_analyzer.py
